@@ -1,0 +1,86 @@
+.navbar {
+    background-color: #B9FFFC;
+    text-align: center;
+    margin: auto;
+}
+
+.logo, .logo:visited {
+    font-size: 2em;
+    font-family: cursive;
+    text-decoration: none;
+    color: #9AB3F5;
+}
+
+.nav-list {
+    display: table;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.nav-item {
+    background-color: #7579E7;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    margin: 5px;
+    border-radius: 45%;
+    padding: 0;
+    list-style-type: none;
+}
+
+.nav-item a:link, .nav-item a:visited {
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#hero {
+    color: #7579E7;
+    margin: auto;
+    text-align: center;
+}
+
+#content {
+    margin: auto;
+    text-align: center;
+}
+
+.content-title {
+    color: #8a2be2;
+}
+
+.content-detail ul {
+    list-style: none;
+    color: #9AB3F5;
+    padding: 0;
+}
+
+#footer {
+    text-align: center;
+}
+
+.product-image img {
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.product-name {
+    font-weight: bold;
+    color: darkmagenta;
+}
+
+.product-detail {
+    color: black;
+}
+
+.product-price {
+    color: crimson;
+}
+
+.content-detail ul li a, content-detail ul li a:visited {
+    text-decoration: none;
+    color: #7579E7;
+}
+

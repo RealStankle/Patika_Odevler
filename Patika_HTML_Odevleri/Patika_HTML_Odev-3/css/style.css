@@ -1,0 +1,29 @@
+table {
+    width: 90%;
+}
+
+.search {
+    background-color: #EEEEEE;
+}
+
+.other-searches {
+    background-color: #7EE5DA;
+}
+
+.links {
+    background-color: #70CCC2;
+}
+
+.newsletter {
+    background-color: #62B3AA;
+}
+
+.newsletter form p {
+    font-size: 12px;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
